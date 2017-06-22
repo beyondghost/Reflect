@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,500,500i');
+
+body, html {
+	background-color: black;
+	font-family: "Roboto";
+	font-weight: 300;
+	color: white;
+}
+
+#top-left {
+	position: fixed;
+	left: 100px;
+	top: 100px;
+}
+
+#top-right {
+	position: fixed;
+	right: 100px;
+	top: 100px;
+	text-align: right;
+}
+
+#bottom-left {
+	position: fixed;
+	left: 100px;
+	bottom: 100px;
+}
+
+#bottom-right {
+	position: fixed;
+	right: 100px;
+	bottom: 100px;
+	text-align: right;
+	max-width: 40vw;
+}
+
+#icon, #temperature {
+	display: inline-block;
+}
+
+#time {
+	font-size: 4em;
+}
+
+#date {
+	font-size: 1.5em;
+}
+
+#song-name {
+	font-size: 2.5em;
+}
+
+#volume, #shuffle {
+	font-size: 2em;
+}
+
+#bitcoin {
+	font-size: 2.5em;
+}
+
+#my-bitcoin {
+	font-size: 2em;
+}
+
+#news-title {
+	font-size: 3em;
+}
+
+.news-source-title {
+	font-size: 1.5em;
+}
+
+.news-article {
+	font-size: 1em;
+}
+
+#temperature {
+	font-size: 3em;
+}
+
+#icon img {
+	height: 3.5em;
+	margin-bottom: -0.5em;
+}
