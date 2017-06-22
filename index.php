@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mirror</title>
+  <title>Reflect</title>
   <link rel="stylesheet" href="fa/css/font-awesome.min.css" />
   <link rel="stylesheet" href="css/index.css" />
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,700,700i" rel="stylesheet">

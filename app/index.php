@@ -14,7 +14,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
-    <title>Mirror</title>
+    <title>Reflect</title>
 
     <link rel="stylesheet" href="app.css" />
     <link rel="stylesheet" href="fa/css/font-awesome.min.css" />
