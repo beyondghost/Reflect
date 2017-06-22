@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/5Wjul9M.png =100x)
+![logo](https://i.imgur.com/5Wjul9M.png)
 A web-based software for magic mirrors
 ## Info
 ### What is it?
